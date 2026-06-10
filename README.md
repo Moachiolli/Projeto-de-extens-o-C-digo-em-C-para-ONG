@@ -1,4 +1,4 @@
-readme_content = """# 📦 Sistema de Gestão Solidária - ONG v1.0
+
 
 Este repositório contém o código-fonte de um sistema computacional desenvolvido em **Linguagem C** como parte de uma atividade de **Extensão Universitária**. O projeto foi estruturado de forma individual para atender a uma demanda sociocomunitária real: a informatização e a melhoria dos processos logísticos em uma Organização Não Governamental (ONG) de amparo social.
 
